@@ -1,2 +1,2 @@
 # ASIMOV
-ASIMOV:Automatic Story Imagining by Merging expanded plot Of Vivid narratives
+ASIMOV:**A**utomatic **S**tory **I**magining by **M**erging expanded plot **O**f **V**ivid narratives
